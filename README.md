@@ -67,8 +67,22 @@ node server.js
 
 Set up Frontend
 
+
+
 cd frontend
 
 npm start
+
+
+
+![image](https://github.com/user-attachments/assets/38d97ad4-7c98-49ba-994f-54a489f0f3d6)
+![image](https://github.com/user-attachments/assets/b5b78961-f59e-4a63-9495-eb07ce608990)
+![image](https://github.com/user-attachments/assets/1e4e6c42-3daa-4831-acf5-8898e9306beb)
+![image](https://github.com/user-attachments/assets/1c5c114c-5a22-4a01-bd0b-c1cffe053e5f)
+![image](https://github.com/user-attachments/assets/813fe98b-6d86-4c3b-90f5-1bda7ef90059)
+
+
+
+
 
 
